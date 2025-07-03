@@ -2,7 +2,7 @@
 // Напиши стрілочну функцію sortByDescendingFriendCount(users), яка прийматиме один параметр users — масив об'єктів користувачів.
 // Функція має повертати масив усіх користувачів, відсортованих за спаданням кількостій їх друзів(властивість friends).
 
-function sortByDescendingFriendCount(users) {
+const sortByDescendingFriendCount = users => {
 
 }
 
